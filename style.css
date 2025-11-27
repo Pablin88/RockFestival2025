@@ -663,13 +663,13 @@ article {
 /* .tarjeta {
   transition: 0.3s;
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)),
-    url(/Imagenes/Fondo\ Grunge.jpg) no-repeat center center / cover;
+    url(/RockFestival2025/Imagenes/Fondo\ Grunge.jpg) no-repeat center center / cover;
   min-height: 400px;
 }
 
 .tarjeta:hover {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.2)),
-    url(/Imagenes/Fondo\ Grunge.jpg) no-repeat center center / cover;
+    url(/RockFestival2025/Imagenes/Fondo\ Grunge.jpg) no-repeat center center / cover;
   transform: translateY(-5px);
 } */
 
@@ -694,7 +694,7 @@ article {
 /* 🔥 Fondo especial para las tarjetas de TEXTO */
 .tarjeta-animada {
   /* Volvemos a colocar el fondo grunge original */
-  background: url("/Imagenes/Fondo Grunge.jpg") no-repeat center center / cover;
+  background: url("/RockFestival2025/Imagenes/Fondo Grunge.jpg") no-repeat center center / cover;
   transition: transform 0.3s ease;
 }
 
