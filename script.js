@@ -26,5 +26,6 @@ document.getElementById('contactForm').addEventListener('submit', function(e) {
         document.getElementById('mensajeGracias').style.display = 'none';
         document.getElementById('formularioContacto').style.display = 'block';
         document.getElementById('contactForm').reset(); // limpiar campos
-    }, 5000);
+    }, 3000);
+
 });
