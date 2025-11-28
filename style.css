@@ -69,7 +69,7 @@ header {
   text-align: center;
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(/Imagenes/rock-bg.jpg) no-repeat center center / cover;
+    url(/RockFestival2025/Imagenes/rock-bg.jpg) no-repeat center center / cover;
   padding: 20px;
 }
 
@@ -669,13 +669,13 @@ article {
 /* .tarjeta {
   transition: 0.3s;
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)),
-    url(/Imagenes/Fondo\ Grunge.jpg) no-repeat center center / cover;
+    url(/RockFestival2025/Imagenes/Fondo\ Grunge.jpg) no-repeat center center / cover;
   min-height: 400px;
 }
 
 .tarjeta:hover {
   background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.2)),
-    url(/Imagenes/Fondo\ Grunge.jpg) no-repeat center center / cover;
+    url(/RockFestival2025/Imagenes/Fondo\ Grunge.jpg) no-repeat center center / cover;
   transform: translateY(-5px);
 } */
 
@@ -700,7 +700,7 @@ article {
 /*Fondo para las tarjetas de TEXTO */
 .tarjeta-animada {
   /* Volvemos a colocar el fondo grunge original */
-  background: url("/Imagenes/Fondo Grunge.jpg") no-repeat center center / cover;
+  background: url("/RockFestival2025/Imagenes/Fondo Grunge.jpg") no-repeat center center / cover;
   transition: transform 0.3s ease;
 }
 
@@ -760,7 +760,7 @@ article {
 
 #Imagen-1 {
   grid-area: Imagen-1;
-  background-image: url(/Imagenes/Recital\ 1.jpg);
+  background-image: url(/RockFestival2025/Imagenes/Recital\ 1.jpg);
   background-size: cover;
   background-position: 10% 10%;
 }
@@ -771,7 +771,7 @@ article {
 
 #Imagen-2 {
   grid-area: Imagen-2;
-  background-image: url(/Imagenes/Recital\ 2.jpg);
+  background-image: url(/RockFestival2025/Imagenes/Recital\ 2.jpg);
   background-size: cover;
   background-position: 66% 10%;
 }
@@ -782,7 +782,7 @@ article {
 
 #Imagen-3 {
   grid-area: Imagen-3;
-  background-image: url(/Imagenes/Recital\ 3-3.jpg);
+  background-image: url(/RockFestival2025/Imagenes/Recital\ 3-3.jpg);
   background-size: cover;
   background-position: 31% 10%;
 }
@@ -793,7 +793,7 @@ article {
 
 #Imagen-4 {
   grid-area: Imagen-4;
-  background-image: url(/Imagenes/Recital\ 4.jpg);
+  background-image: url(/RockFestival2025/Imagenes/Recital\ 4.jpg);
   background-size: cover;
   background-position: 51% 10%;
 }
@@ -804,7 +804,7 @@ article {
 
 #Imagen-5 {
   grid-area: Imagen-5;
-  background-image: url(/Imagenes/Recital\ 5.jpg);
+  background-image: url(/RockFestival2025/Imagenes/Recital\ 5.jpg);
   background-size: cover;
   background-position: 10% 10%;
 }
@@ -815,7 +815,7 @@ article {
 
 #Imagen-6 {
   grid-area: Imagen-6;
-  background-image: url(/Imagenes/Recital\ 6.jpg);
+  background-image: url(/RockFestival2025/Imagenes/Recital\ 6.jpg);
   background-size: cover;
   background-position: 94% 10%;
 }
@@ -1150,42 +1150,42 @@ body {
 
   #Imagen-1 {
     grid-area: Imagen-1;
-    background-image: url(/Imagenes/Recital\ 1.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 1.jpg);
     background-size: cover;
     background-position: 53% 10%;
   }
 
   #Imagen-2 {
     grid-area: Imagen-2;
-    background-image: url(/Imagenes/Recital\ 2.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 2.jpg);
     background-size: cover;
     background-position: 66% 10%;
   }
 
   #Imagen-3 {
     grid-area: Imagen-3;
-    background-image: url(/Imagenes/Recital\ 3-3.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 3-3.jpg);
     background-size: cover;
     background-position: 31% 10%;
   }
 
   #Imagen-4 {
     grid-area: Imagen-4;
-    background-image: url(/Imagenes/Recital\ 4.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 4.jpg);
     background-size: cover;
     background-position: 51% 10%;
   }
 
   #Imagen-5 {
     grid-area: Imagen-5;
-    background-image: url(/Imagenes/Recital\ 5.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 5.jpg);
     background-size: cover;
     background-position: 10% 10%;
   }
 
   #Imagen-6 {
     grid-area: Imagen-6;
-    background-image: url(/Imagenes/Recital\ 6.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 6.jpg);
     background-size: cover;
     background-position: 94% 10%;
   }
@@ -1258,42 +1258,42 @@ body {
 
   #Imagen-1 {
     grid-area: Imagen-1;
-    background-image: url(/Imagenes/Recital\ 1.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 1.jpg);
     background-size: cover;
     background-position: 53% 10%;
   }
 
   #Imagen-2 {
     grid-area: Imagen-2;
-    background-image: url(/Imagenes/Recital\ 2.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 2.jpg);
     background-size: cover;
     background-position: 66% 10%;
   }
 
   #Imagen-3 {
     grid-area: Imagen-3;
-    background-image: url(/Imagenes/Recital\ 3-3.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 3-3.jpg);
     background-size: cover;
     background-position: 31% 10%;
   }
 
   #Imagen-4 {
     grid-area: Imagen-4;
-    background-image: url(/Imagenes/Recital\ 4.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 4.jpg);
     background-size: cover;
     background-position: 51% 10%;
   }
 
   #Imagen-5 {
     grid-area: Imagen-5;
-    background-image: url(/Imagenes/Recital\ 5.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 5.jpg);
     background-size: cover;
     background-position: 10% 10%;
   }
 
   #Imagen-6 {
     grid-area: Imagen-6;
-    background-image: url(/Imagenes/Recital\ 6.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 6.jpg);
     background-size: cover;
     background-position: 94% 10%;
   }
@@ -1404,7 +1404,7 @@ body {
 
   #Imagen-1 {
     grid-area: Imagen-1;
-    background-image: url(/Imagenes/Recital\ 1.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 1.jpg);
     background-size: cover;
     background-position: 53% 10%;
     height: 400px;
@@ -1412,35 +1412,35 @@ body {
 
   #Imagen-2 {
     grid-area: Imagen-2;
-    background-image: url(/Imagenes/Recital\ 2.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 2.jpg);
     background-size: cover;
     background-position: 66% 10%;
   }
 
   #Imagen-3 {
     grid-area: Imagen-3;
-    background-image: url(/Imagenes/Recital\ 3-3.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 3-3.jpg);
     background-size: cover;
     background-position: 31% 10%;
   }
 
   #Imagen-4 {
     grid-area: Imagen-4;
-    background-image: url(/Imagenes/Recital\ 4.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 4.jpg);
     background-size: cover;
     background-position: 51% 10%;
   }
 
   #Imagen-5 {
     grid-area: Imagen-5;
-    background-image: url(/Imagenes/Recital\ 5.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 5.jpg);
     background-size: cover;
     background-position: 10% 10%;
   }
 
   #Imagen-6 {
     grid-area: Imagen-6;
-    background-image: url(/Imagenes/Recital\ 6.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 6.jpg);
     background-size: cover;
     background-position: 94% 10%;
   }
@@ -1640,7 +1640,7 @@ body {
 
   #Imagen-1 {
     grid-area: Imagen-1;
-    background-image: url(/Imagenes/Recital\ 1.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 1.jpg);
     background-size: cover;
     background-position: 53% 10%;
     height: 400px;
@@ -1648,35 +1648,35 @@ body {
 
   #Imagen-2 {
     grid-area: Imagen-2;
-    background-image: url(/Imagenes/Recital\ 2.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 2.jpg);
     background-size: cover;
     background-position: 66% 10%;
   }
 
   #Imagen-3 {
     grid-area: Imagen-3;
-    background-image: url(/Imagenes/Recital\ 3-3.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 3-3.jpg);
     background-size: cover;
     background-position: 31% 10%;
   }
 
   #Imagen-4 {
     grid-area: Imagen-4;
-    background-image: url(/Imagenes/Recital\ 4.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 4.jpg);
     background-size: cover;
     background-position: 51% 10%;
   }
 
   #Imagen-5 {
     grid-area: Imagen-5;
-    background-image: url(/Imagenes/Recital\ 5.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 5.jpg);
     background-size: cover;
     background-position: 10% 10%;
   }
 
   #Imagen-6 {
     grid-area: Imagen-6;
-    background-image: url(/Imagenes/Recital\ 6.jpg);
+    background-image: url(/RockFestival2025/Imagenes/Recital\ 6.jpg);
     background-size: cover;
     background-position: 94% 10%;
   }
