@@ -1650,7 +1650,7 @@ body {
 
   #Imagen-1 {
     grid-area: Imagen-1;
-    background-image: url(/RockFestival2025/Imagenes/Recital\ 1.jpg);
+    background-image: url(/Imagenes/Recital\ 1.jpg);
     background-size: cover;
     background-position: 53% 10%;
     height: 400px;
@@ -1658,35 +1658,35 @@ body {
 
   #Imagen-2 {
     grid-area: Imagen-2;
-    background-image: url(/RockFestival2025/Imagenes/Recital\ 2.jpg);
+    background-image: url(/Imagenes/Recital\ 2.jpg);
     background-size: cover;
     background-position: 66% 10%;
   }
 
   #Imagen-3 {
     grid-area: Imagen-3;
-    background-image: url(/RockFestival2025/Imagenes/Recital\ 3-3.jpg);
+    background-image: url(/Imagenes/Recital\ 3-3.jpg);
     background-size: cover;
     background-position: 31% 10%;
   }
 
   #Imagen-4 {
     grid-area: Imagen-4;
-    background-image: url(/RockFestival2025/Imagenes/Recital\ 4.jpg);
+    background-image: url(/Imagenes/Recital\ 4.jpg);
     background-size: cover;
     background-position: 51% 10%;
   }
 
   #Imagen-5 {
     grid-area: Imagen-5;
-    background-image: url(/RockFestival2025/Imagenes/Recital\ 5.jpg);
+    background-image: url(/Imagenes/Recital\ 5.jpg);
     background-size: cover;
     background-position: 10% 10%;
   }
 
   #Imagen-6 {
     grid-area: Imagen-6;
-    background-image: url(/RockFestival2025/Imagenes/Recital\ 6.jpg);
+    background-image: url(/Imagenes/Recital\ 6.jpg);
     background-size: cover;
     background-position: 94% 10%;
   }
@@ -1819,7 +1819,7 @@ body {
   }
 
   .form-contact {
-    width: 90%;
+    width: 100%;
   }
 
   .contacto-wrapper,
@@ -1880,7 +1880,7 @@ body {
   }
 
   .comentario {
-    width: 120%;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1964,5 +1964,9 @@ body {
 
   .counter-btn {
     font-size: 1rem;
+  }
+
+  #formularioContacto {
+    width: 100%;
   }
 }
