@@ -1960,4 +1960,8 @@ body {
     display: inline-block;
     font-size: 0.8rem;
   }
+
+  .counter-btn {
+    font-size: 1rem;
+  }
 }
